@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6d6tC7DUQjQnC3WNO4l92iF3S03YSwVmoVUSj0KWoPus3pPyPd8bIvoVcgtWODNqqofk7i8yiyObfDWp8R9rA==",
+  "dgSpecHash": "FYLTLjt45g/fjZujL3PJtIEu3mW96eReWAC7eEaQKtGQ5pfLAmGNk+8hHoF/LYKpFHlBoflw7OKr26yzBVE/pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj",
+  "projectFilePath": "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vlad_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\vlad_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

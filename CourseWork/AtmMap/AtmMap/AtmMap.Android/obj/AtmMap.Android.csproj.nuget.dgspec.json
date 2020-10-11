@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\AtmMap.Android.csproj": {}
+    "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\AtmMap.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\AtmMap.Android.csproj": {
+    "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\AtmMap.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\AtmMap.Android.csproj",
+        "projectUniqueName": "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\AtmMap.Android.csproj",
         "projectName": "AtmMap.Android",
-        "projectPath": "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\AtmMap.Android.csproj",
+        "projectPath": "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\AtmMap.Android.csproj",
         "packagesPath": "C:\\Users\\vlad_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\obj\\",
+        "outputPath": "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj": {
-                "projectPath": "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj"
+              "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj": {
+                "projectPath": "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj": {
+    "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj",
+        "projectUniqueName": "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj",
         "projectName": "AtmMap",
-        "projectPath": "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj",
+        "projectPath": "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\AtmMap.csproj",
         "packagesPath": "C:\\Users\\vlad_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlad_\\Desktop\\ProgramProjects\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\obj\\",
+        "outputPath": "C:\\Users\\vlad_\\Documents\\GitHub\\ATMApp\\CourseWork\\AtmMap\\AtmMap\\AtmMap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
